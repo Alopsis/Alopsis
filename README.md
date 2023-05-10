@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Soon](Soon)
 
-- 💬 Ask me about **all my works**
+- 💬 Ask me about **my works**
 
 - 📫 How to reach me **moulager.sinclair@gmail.com**
 
