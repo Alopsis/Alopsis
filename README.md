@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm French developer</h1>
+<h1 align="center">Hi 👋, I'm a French developer</h1>
 <h3 align="center">Passionate and motivated developer</h3>
 
 - 🔭 I’m currently working on **my studies**
