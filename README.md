@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **my studies**
 
-- 🌱 I’m currently learning **New frameworks and langagues**
+- 🌱 I’m currently learning **New tools and langagues**
 
-- 👯 I’m looking to collaborate for **Website's development**
+- 👯 I’m looking to collaborate for **Website's development and cybersecurity**
 
-- 👨‍💻 All of my projects are available at [soon](soon)
+- 👨‍💻 All of my projects are available at [soon](http://sinclair-moulager.fr/)
 
-- 💬 Ask me about **my works**
+- 💬 Ask me about **everything**
 
 - 📫 How to reach me **moulager.sinclair@gmail.com**
 
