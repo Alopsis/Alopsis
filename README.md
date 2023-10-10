@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate for **Website's development and cybersecurity**
 
-- 👨‍💻 All of my projects are available at [soon](http://sinclair-moulager.fr/)
+- 👨‍💻 All of my projects are available at [my website](http://sinclair-moulager.fr/)
 
 - 💬 Ask me about **everything**
 
