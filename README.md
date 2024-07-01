@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **New tools and langagues**
 
-- 👯 I’m looking to collaborate for **Website's development and cybersecurity**
+- 👯 I’m looking to collaborate for **cybersecurity**
 
 - 👨‍💻 All of my projects are available at [my website](http://sinclair-moulager.fr/)
 
