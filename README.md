@@ -19,8 +19,10 @@ During my studies and free time, I had the opportunity to develop several progra
 <details>
   <summary>Script de veille pour la cybersécurité</summary>
   Ce projet permet de faire la veille en utilisant les flux RSS pour récuperer des articles. Il permet également de faire des frises technologiques et des listes d'articles partagés. 
-  - [Lien vers le projet]([https://lien-vers-ton-projet](https://github.com/Alopsis/veille-automatique-cyber))
-</details>
+  <ul>
+    <li><a href="https://github.com/Alopsis/veille-automatique-cyber">Link</a></li>
+  </ul>
+  </details>
 
 <details>
   <summary>Detection de LSB sur une image</summary>
