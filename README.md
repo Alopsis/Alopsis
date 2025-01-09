@@ -14,4 +14,16 @@
 - 📫 How to reach me **moulager.sinclair@gmail.com**
 
 
+During my studies and free time, I had the opportunity to develop several programmes with unwavering motivation. There is a list of them : 
 
+<details>
+  <summary>Script de veille pour la cybersécurité</summary>
+  Ce projet permet de faire la veille en utilisant les flux RSS pour récuperer des articles. Il permet également de faire des frises technologiques et des listes d'articles partagés. 
+  - [Lien vers le projet]([https://lien-vers-ton-projet](https://github.com/Alopsis/veille-automatique-cyber))
+</details>
+
+<details>
+  <summary>Detection de LSB sur une image</summary>
+  Script qui permet de détecter un message dans une image qui utilise le principe de LSB (least significiant bits).
+  - [Lien vers le projet]([https://lien-vers-ton-projet](https://github.com/Alopsis/Lsb-checker))
+</details>
